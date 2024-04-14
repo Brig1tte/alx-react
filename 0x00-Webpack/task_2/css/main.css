@@ -1,0 +1,13 @@
+#myButton + #count {
+  display: inline-block;
+  margin-left: 10px;
+  font-weight: bold;
+  vertical-align: top;
+}
+
+#logo {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+}
