@@ -1,13 +1,25 @@
 {
   "name": "task_1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webpack with a config file",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+	  "asset",
+	  "compilation",
+	  "entry",
+	  "points",
+	  "javascript",
+	  "loaders",
+	  "output",
+	  "webpack",
+	  "plugins"
+  ],
+  "author": "Brigitte Koranteng",
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.7.1",
