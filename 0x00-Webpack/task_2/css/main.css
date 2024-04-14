@@ -1,6 +1,7 @@
 #count {
   display: inline;
   font-weight: bold;
+  margin-left: 10px;
 }
 
 #logo {
@@ -8,4 +9,14 @@
   width: 200px;
   height: 200px;
   background-size: 200px 200px;
+}
+
+#myButton {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #333;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
 }
