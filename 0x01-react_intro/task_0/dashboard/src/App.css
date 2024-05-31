@@ -1,0 +1,11 @@
+.App-header {
+  display: flex;
+  align-items: center;
+  boarder-bottom: 2px solid red;
+  padding: 1rem;
+}
+
+.App-body,
+.App-footer {
+  padding: 1rem;
+}

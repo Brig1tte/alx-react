@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ALX REACT:
+=======
+>>>>>>> 84704bc83b284167194313c2b65bc925c06ea7fc
 0x07. React Redux action creator+normalizr
 Front-end
 JavaScript
